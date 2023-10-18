@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ambulance\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ nyalakanTape()
+comment2.params=
+comment2.target=void\ nyalakanTV()
+comment3.params=
+comment3.target=void\ nyalakanAC()
+comment4.params=
+comment4.target=void\ nyalakanSirine()
+comment5.params=
+comment5.target=void\ matikanSirine()
+comment6.params=jenis
+comment6.target=void\ gantiSirine(int)
+numComments=7
